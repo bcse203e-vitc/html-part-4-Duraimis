@@ -1,0 +1,33 @@
+header{
+    background-color: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    
+}
+main{
+    background-color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+button{
+    background: #85e2fe;
+    border-radius: 10%;
+    transition:background-color 0.3s;
+    cursor: pointer;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button:hover{
+    background-color:#173e4a ;
+}
+footer{
+    background-color: darkgray;
+    text-align: center;
+    color: black;
+    padding: 2%;
+    font-size: 20px;
+}
