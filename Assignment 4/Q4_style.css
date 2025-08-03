@@ -1,1 +1,30 @@
-dghh
+.box_1{
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 20px;
+    border: 20%;
+    border-style: solid;
+}
+.box_2{
+    width: 50%;
+    height: 100px;
+    background-color: rgb(223, 151, 70);
+    border: 3px solid black;
+    margin: 10px;
+    padding: 15px;
+    border: 20%;
+    border-style:hidden;
+}
+.box_3{
+    width: 50%;
+    height: 100px;
+    background-color: rgb(100, 242, 68);
+    border: 3px solid black;
+    margin: 10px;
+    padding: 5px;
+    border: 20%;
+    border-style:dashed;
+}
